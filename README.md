@@ -3,7 +3,7 @@
 ## 😎 About Me
 🎓 Undergraduate Student in Computational Math at UFMG.
 
-🔍 Student Researcher at @verlab.
+🔍 Student Researcher at [VeRLab](https://github.com/verlab).
 
 👾 Passionate about Graphics Programming and Game Dev.
 
